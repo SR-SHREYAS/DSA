@@ -1,0 +1,3 @@
+BST : Binary search tree 
+
+recursion is mostly used ;

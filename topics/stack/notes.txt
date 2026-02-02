@@ -1,0 +1,2 @@
+to implement a queue two stack is needed
+and to implement a stack two queue is needed

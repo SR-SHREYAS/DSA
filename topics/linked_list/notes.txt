@@ -1,0 +1,10 @@
+no indexing 
+scattered memory
+dynamic
+insertion and deletion is easy 
+no random access to element so it taked time to traverse to a element
+while(cur!=NULL)
+    head = head-> next
+    cur->next = prev;
+    prev = cur;
+    cur = head;
